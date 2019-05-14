@@ -1,7 +1,9 @@
 
 ## React Redux Login & Registration Example
 
-This is an example application to demonstrate how we can manage login/registration flow in our React app with Redux state management system.
+This is an example application to demonstrate how we can manage login/registration flow in our React app with Redux.
+
+For this example, I used [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) framework to create the user interface for this example.
 
 ## Usage
 ```
